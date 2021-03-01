@@ -1,5 +1,15 @@
+import React from 'react';
+import { Header } from './components';
+
+import { Container } from '@material-ui/core';
+
 function App() {
-  return <div className='App'>Hello</div>;
+  return (
+    <Container>
+      <Header />
+      Hello
+    </Container>
+  );
 }
 
 export default App;
