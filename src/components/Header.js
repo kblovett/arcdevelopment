@@ -23,7 +23,7 @@ const Header = (props) => {
     <ElevationScroll>
       <AppBar position='fixed'>
         <Toolbar>
-          <Typography>Arc Development</Typography>
+          <Typography variant='h3'>Arc Development</Typography>
         </Toolbar>
       </AppBar>
     </ElevationScroll>

@@ -21,10 +21,11 @@ const dark = createMuiTheme({
     secondary: {
       main: `${arcOrange}`,
     },
-    // background: {
-    //   paper: `${pDark}`,
-    //   default: `${pDark}`,
-    // },
+  },
+  typography: {
+    h3: {
+      fontWeight: 300,
+    },
   },
 });
 
