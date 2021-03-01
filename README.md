@@ -1,6 +1,6 @@
-# Course work from [Implement High Fidelity Designs with Material-UI and ReactJS](https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs)
+# Course Work
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Implement High Fidelity Designs with Material-UI and ReactJS](https://www.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs)
 
 ## Available Scripts
 
